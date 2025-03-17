@@ -1,4 +1,8 @@
-## Hi there 👋
+## Мой стек технологий
+
+`SQL` `PostgresSQL` `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Plotly` `MS Excel` `Tableau`
+
+💬 Связаться со мной можно в Telegram - @sever_006 (https://t.me/sever_006) или mr.sever06@gmail.com
 
 <!--
 **MrSever06/MrSever06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
